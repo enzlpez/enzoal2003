@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enzoal2003 (Altough my real name is Enzo López).
-- 👀 I’m interested in fronted web development, focused in Reac.js and Next.js development. (I'm interested also in all about decentralized technologies and cryptocorruncies)
-- 🌱 I’m currently learning Next.js more deeply to create rich web applications
+- 👀 I’m interested in fronted web development, focused in React.js and Next.js development. (I'm interested also in all about decentralized technologies and cryptocorruncies)
+- 🌱 I’m currently learning more deeply Next.js development to create rich web applications.
 - 💞️ I’m looking to collaborate on startups and whoever is trying to create something meaningful.
 - 📫 You can contact me at: enzoagustinlopez2003@gmail.com (Gmail) | @enzlpez_ (Instagram & Twitter) | www.linkedin.com/in/enzlpez (LinkedIn)
